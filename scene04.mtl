@@ -1,0 +1,52 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# �������ļ�:01.04.2018 14:35:05
+
+newmtl initialShadingGroup
+	illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+
+newmtl lambert3SG
+    illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 1.0000
+
+newmtl lambert2SG
+	illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+
+newmtl sphere_mirror
+	illum 4
+	Kd 0.00 0.00 0.00
+	Ka 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Ns 1000
+
+newmtl blinn2SG
+    illum 4
+    Kd 0.80 0.80 0.80
+    Ka 0.78 0.78 0.78
+
+newmtl sphere_transparent
+	Ni 1.5000
+	Tr 0.9000
+	illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__82
+    illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7373 0.8235 0.1686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__81
+	illum 4
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0902 0.7137 0.7529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
