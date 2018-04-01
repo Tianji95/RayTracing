@@ -7,8 +7,8 @@ A rayTracing based on Monte-Carlo sampling algorithm using directX11 compute sha
  
 **10000 sample for my own scene**.
 
-![Scene2 text](https://raw.githubusercontent.com/ZJUZTJ/RayTracing/master/screenshot/1000sample5d5illum.bmp)
+![Scene2 text](https://raw.githubusercontent.com/ZJUZTJ/RayTracing/master/screenshot/ownScene10000sample.bmp)
  
 **1000 sample for another Scene**.
 
-![Scene3 text](https://raw.githubusercontent.com/ZJUZTJ/RayTracing/master/screenshot/ownScene10000sample.bmp)
+![Scene3 text](https://raw.githubusercontent.com/ZJUZTJ/RayTracing/master/screenshot/1000sample5d5illum.bmp)
